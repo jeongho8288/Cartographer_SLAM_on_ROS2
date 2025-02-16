@@ -3,11 +3,11 @@
 > The Storapy (mobile robot) and Xarm-lite6 are provided by company XYZ .
 
 Tested environment
-'''
+```
 Ubuntu 22.04
 ROS2-humble
 python 3.10.11
-'''
+```
 
 This project aims to design an algorithm that plans and follows a path for a vehicle placed at an arbitrary position and orientation in a 2D environment to reach a target point.
 <hr style="border-top: 3px solid #bbb;">  
