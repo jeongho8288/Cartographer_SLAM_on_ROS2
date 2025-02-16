@@ -17,5 +17,5 @@ Catographer-ros2
 <img src="https://github.com/user-attachments/assets/d50aec67-9f46-443a-8acd-a060b241c3f6" alt="Description2" style="width: 60%; height: 300px;">  
   
 #### 2.  
-<img src="https://github.com/user-attachments/assets/a4fa77b0-2a82-4304-9fe9-9d1f00cd0444" alt="Description2" style="width: 60%; height: 300px;">  
+<img src="https://github.com/user-attachments/assets/a4fa77b0-2a82-4304-9fe9-9d1f00cd0444" alt="Description2" style="width: 80%; height: 300px;">  
 <hr style="border-top: 3px solid #bbb;">  
