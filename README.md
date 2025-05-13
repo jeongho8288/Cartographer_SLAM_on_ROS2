@@ -1,6 +1,6 @@
 # Cartographer_SLAM_on_ROS2
 
-> The Storapy (mobile robot) and Xarm-lite6 are provided by company XYZ .
+> The Storagy (mobile robot) and Xarm-lite6 are provided by company XYZ .
   
 ### Tested environment
 ```
